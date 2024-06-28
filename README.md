@@ -77,3 +77,14 @@ The project structure is as follows:
 
 - WORKING SCREENSHOTS
 
+- Backend:
+
+![Screenshot from 2024-06-28 16-13-11](https://github.com/adityassharma-ss/lru-cache/assets/82082352/1cb98f40-c949-402d-a3fc-5075d2a96d74)
+
+- Frontend & Backend:
+![Screenshot from 2024-06-28 16-12-35](https://g![Screenshot from 2024-06-28 16-12-17](https://github.com/adityassharma-ss/lru-cache/assets/82082352/3f105219-2a32-4911-8b04-03e6d76d47a4)
+ithub.com/adityassharma-ss/lru-cache/assets/82082352/784283d5-d88b-4459-bbba-a7fcc362fd9c)
+
+
+
+
