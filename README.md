@@ -73,3 +73,7 @@ The project structure is as follows:
     client/: Contains the React frontend code.
     go.mod and go.sum: Go module files for backend dependencies.
     main.go: Main backend Go file containing the cache management logic.
+
+
+- WORKING SCREENSHOTS
+
