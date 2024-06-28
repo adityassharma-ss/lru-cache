@@ -53,6 +53,23 @@ Backend API Endpoints
     GET /get: Retrieves the value associated with a key.
     DELETE /delete: Deletes a key-value pair from the LRU cache.
 
-Additional Notes
+- Additional Notes
 
-    Adjust CORS settings in main.go if deploying to a different environment.
+Running Just the Backend Without Docker
+
+If you want to run only the backend without Docker, follow these steps:
+
+    Ensure you have Go installed on your machine.
+    Navigate to the project root directory.
+    Run the backend using the following command:
+
+    ``` go run main.go ```
+
+    The backend server will start on http://localhost:8080.
+Project Structure
+
+The project structure is as follows:
+
+    client/: Contains the React frontend code.
+    go.mod and go.sum: Go module files for backend dependencies.
+    main.go: Main backend Go file containing the cache management logic.
